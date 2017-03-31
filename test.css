@@ -1,0 +1,32 @@
+ul.images {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+}
+
+ul.images li {
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin: 0px 0 0 0px;
+    position: relative;
+}
+
+span. text-content {
+    background: rgba (0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+    display: table;
+    width: 400px;
+    height: 300px;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+span. text-content span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle
+}

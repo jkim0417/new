@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich'); 
+
+#topHd {
+    width: 1000px;
+}
+
+#navi ul {
+    font-family: 'Aldrich', sans-serif;
+    list-style-type: none;
+    margin: 0 auto;
+    width: 600px;
+    padding: 0;
+    color: #58595B;
+    text-decoration: none
+}
+
+#navi ul li {
+    list-style: none;
+    width: 70px;
+    height: 30px;
+    float: left;6
+    background: white;
+    margin-left: 10px;
+    line-height: 30px;
+    text-align: center;   
+}
+
+#navi ul li a:hover{
+    border-top: 4px solid #D1D3D4;
+    border-bottom: 4px solid #D1D3D4;
+    padding: 6px 0;
+    color: black
+}
+
+#navi ul li a:visited{
+    color: #58595B
+}
+
+#navii ul {
+    margin-left: 15vh;
+    height:300px;
+    width: 300px; 
+    position: absolute;
+    margin-bottom: 20vh;
+}
+
+#naviii ul{
+    font-family: 'aldrich', sans-serif;
+    margin-top: 120px;
+    list-style: none;
+    margin-left: 20vh;
+    font-size: 18;
+    position: none;
+}
+
+#naviv ul{
+    font-family: 'aldrich', sans-serif;
+    margin-top: 10px;
+    list-style: none;
+    margin-left: 20vh;
+    font-size: 11;
+    list-style: none;
+    position:absolute;
+}
+
+#navv ul{
+    font-family: 'aldrich', sans-serif;
+    list-style: none;
+    width: 600;
+    margin-right: 20vh;
+    margin-top:100px;
+    margin-left: 750px;
+    font-size: 12
+}
+
+.menu {
+    padding-top: 5px;
+    padding-left: 140vh
+}
+
+.name {
+    font-family: 'Aldrich', sans-serif;
+    padding-left: 25vh;
+    padding-top: 5vh;
+}
+
+.d2 { 
+   float:left; width:400px; height:300px; background:black; 
+   margin:15px 0 0 15px; 
+} 
+
+.project {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    margin: 15px 0 0 15px;
+}
