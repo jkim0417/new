@@ -38,11 +38,8 @@
 
 
 #navii ul {
-    margin-top: 20vh      
-}
-
-#navii ul {
-    margin-left: 15vh
+    margin-top: 5vh;      
+    margin-left: 12vh
 }
 
 #navii ul{
@@ -55,17 +52,14 @@
 
 .name {
     font-family: 'Aldrich', sans-serif;
-    padding-left: 25vh;
+    padding-left: 20vh;
     padding-top: 5vh;
+    text-decoration: none
 }
-
-.d2 { 
-   float:left; width:400px; height:300px; background:black; 
-   margin:15px 0 0 15px; 
-} 
 
 .project {
     width: 400px;
     height: 300px;
     background-color: black;
     margin: 15px 0 0 15px;
+    border-radius: 15px;

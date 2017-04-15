@@ -22,7 +22,7 @@
     background: white;
     margin-left: 10px;
     line-height: 30px;
-    text-align: center;   
+    text-align: center;
 }
 
 #navi ul li a:hover{
@@ -37,7 +37,7 @@
 }
 
 #navii ul {
-    margin-left: 15vh;
+    margin-left: 12vh;
     height:420px;
     width: 540px; 
     position: absolute;
@@ -48,27 +48,17 @@
     font-family: 'aldrich', sans-serif;
     margin-top: 120px;
     list-style: none;
-    margin-left: 20vh;
+    margin-left: 14vh;
     font-size: 18
 }
 
 #naviv ul{
     font-family: 'aldrich', sans-serif;
-    margin-top: 10px;
+    margin-top: 0px;
     list-style: none;
-    margin-left: 20vh;
+    margin-left: 14vh;
     font-size: 11;
     position:absolute
-}
-
-#navv ul{
-    font-family: 'aldrich', sans-serif;
-    list-style: none;
-    width: 600;
-    margin-right: 20vh;
-    margin-top:100px;
-    margin-left: 750px;
-    font-size: 12
 }
 
 .menu {
@@ -78,8 +68,12 @@
 
 .name {
     font-family: 'Aldrich', sans-serif;
-    padding-left: 25vh;
+    padding-left: 20vh;
     padding-top: 5vh;
+}
+
+.name a {
+    color: black;
 }
 
 .d2 { 
@@ -87,8 +81,21 @@
    margin:15px 0 0 15px; 
 } 
 
+
 .project {
     width: 560px;
     height: 420px;
     background-color: black;
     margin: 15px 0 0 15px;
+    border-radius: 15px;
+}
+
+
+#navv {
+    font-family: 'aldrich', sans-serif;
+    list-style: none;
+    width: 535;
+    font-size: 12;
+    color:black;
+    margin-left: 110vh
+}

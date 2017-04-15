@@ -46,9 +46,9 @@
 
 #naviii ul{
     font-family: 'aldrich', sans-serif;
-    margin-top: 120px;
+    margin-top: 50px;
     list-style: none;
-    margin-left: 20vh;
+    margin-left: 75vh;
     font-size: 18;
     position: none;
 }
@@ -80,7 +80,7 @@
 
 .name {
     font-family: 'Aldrich', sans-serif;
-    padding-left: 25vh;
+    padding-left: 20vh;
     padding-top: 5vh;
 }
 
@@ -90,8 +90,19 @@
 } 
 
 .project {
-    width: 300px;
-    height: 300px;
-    background-color: black;
+    width: 200px;
+    height: 200px;
+    background-color: white;
     margin: 15px 0 0 15px;
+    margin-left: 700px;
+    border-radius: 15px;
+}
+
+#navv {
+    font-family: 'aldrich', sans-serif;
+    list-style: none;
+    width: 400;
+    font-size: 12;
+    color:black;
+    margin-left: 430;
 }

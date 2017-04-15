@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich'); 
+
+#topHd {
+    width: 1000px;
+}
+
+#navi ul {
+    font-family: 'Aldrich', sans-serif;
+    list-style-type: none;
+    margin: 0 auto;
+    width: 600px;
+    padding: 0;
+    color: #58595B;
+    text-decoration: none
+}
+
+#navi ul li {
+    list-style: none;
+    width: 70px;
+    height: 30px;
+    float: left;6
+    background: white;
+    margin-left: 10px;
+    line-height: 30px;
+    text-align: center;   
+}
+
+#navi ul li a:hover{
+    border-top: 4px solid #D1D3D4;
+    border-bottom: 4px solid #D1D3D4;
+    padding: 6px 0;
+    color: black
+}
+
+#navi ul li a:visited{
+    color: #58595B
+}
+
+
+#navii ul {
+    margin-top: 5vh;
+    margin-left: 12vh;
+    font-family: 'aldrich', sans-serif;
+}
+.menu {
+    padding-top: 5px;
+    padding-left: 140vh
+}
+
+.name {
+    font-family: 'Aldrich', sans-serif;
+    padding-left: 20vh;
+    padding-top: 5vh;
+    text-decoration: none
+}
+
+.project {
+    width: 400px;
+    height: 300px;
+    background-color: black;
+    margin: 15px 0 0 15px;
+    border-radius: 15px;
+
+    
+    

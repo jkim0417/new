@@ -37,22 +37,15 @@
 }
 
 #navii ul {
-    margin-top: 20vh      
+    margin-top: 5vh;      
+    margin-left: 12vh;
 }
 
-#navii ul {
-    margin-left: 15vh
-}
-
-#navii ul: hover-overlay{
+#navii ul: hover-overlay {
     width: 100%;
     display: block;
     position: relative;
     text-align: center!important;
-}
-
-#navii ul: hover.overlay {
-    display: block;
 }
 
 #navii ul: hover {
@@ -66,7 +59,7 @@
 
 .name {
     font-family: 'Aldrich', sans-serif;
-    padding-left: 25vh;
+    padding-left: 20vh;
     padding-top: 5vh;
 }
 
@@ -80,5 +73,6 @@
     height: 300px;
     background-color: black;
     margin: 15px 0 0 15px;
+    border-radius: 10px;
 
     
