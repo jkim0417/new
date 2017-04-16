@@ -95,7 +95,7 @@
     background-color: white;
     margin: 15px 0 0 15px;
     margin-left: 700px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 #navv {
@@ -105,4 +105,11 @@
     font-size: 12;
     color:black;
     margin-left: 430;
+    position:absolute;
+}
+
+#resume{
+    margin-top: 5px;
+    margin-left: 132vh;
+    position: none;   
 }
