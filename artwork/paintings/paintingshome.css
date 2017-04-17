@@ -52,6 +52,7 @@
     font-family: 'Aldrich', sans-serif;
     padding-left: 20vh;
     padding-top: 5vh;
+     text-decoration: none;
 }
 
 .d2 { 
@@ -64,4 +65,12 @@
     height: 300px;
     background-color: black;
     margin: 15px 0 0 15px;
-    border-radius: 15px;
+    border-radius: 10px;
+}
+    
+.project-horizontal {
+    width: auto;
+    height: 300px;
+    background-color: black;
+    margin: 15px 0 0 15px;
+    border-radius: 10px;
